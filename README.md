@@ -1,0 +1,1 @@
+This is your Chrome extension which replaces word 'NSUer' to 'জঙ্গি'
